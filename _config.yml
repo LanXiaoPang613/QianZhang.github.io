@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : "https://lanxiaopang613.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lanxiaopang613.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://lanxiaopang613.github.io/QianZhang.github.io/"
 
@@ -21,7 +21,7 @@ repository               : "https://lanxiaopang613.github.io/QianZhang.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./041228625fc06c1187116455f342bbc7eaff2dc3e5bdb8c58b1.jpg"
+  avatar           : "041228625fc06c1187116455f342bbc7eaff2dc3e5bdb8c58b1.jpg"
   name             : "Qian Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Qian Zhang is a lecturer in Jiangsu Open University"
