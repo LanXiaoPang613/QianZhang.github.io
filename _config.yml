@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "041228625fc06c1187116455f342bbc7eaff2dc3e5bdb8c58b1.jpg"
+  avatar           : "profile.png"
   name             : "Qian Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Qian Zhang is a lecturer in Jiangsu Open University"
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&pli=1&user=_wEvxWoAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1749-8653"
   semantic         : # URL
-  pubmed           : "https://orcid.org/0000-0003-1749-8653"
+  pubmed           : #
   researchgate     : # URL
 
   # Repositories and software development
