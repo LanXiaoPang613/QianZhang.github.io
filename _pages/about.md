@@ -1,49 +1,70 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Qian Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am an Lecturer in the Department of Computer Engineering, School of Information Technology, Jiangsu Open University (China, Nanjing) [Institutional pages](https://sit.jsou.edu.cn/2023/0904/c6266a159158/page.psp). I obtained my Ph.D. degree at the School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology in 2021, supervised by Prof. Qiu Chen, Prof. Feifei Lee and Prof. Yagang Wang. Prior to that, I received my B.E. in Automation from Changzhou Institute of Technology In in 2016.
+My research interest falls in the scope of Noisy Label Learning, Computer Vision and Pattern Recongition, which enhance deep neural networks robustness against data corruption [ORCID](https://orcid.org/0000-0003-1749-8653). My future research interests include learning with noisy labels in medical imaging, learning with biased labels, and out-of-distribution (OOD) detection.
+Learning with noisy labels is a significant area of research in machine learning and artificial intelligence. It focuses on developing methods to train models effectively when the training data contains incorrect or mislabeled instances, which is common in real-world datasets. Noisy labels can arise from various sources, such as human error during data annotation, automated labeling systems, or inherent ambiguities in the data. The ultimate goal of learning with noisy labels is to ensure that models can reliably extract meaningful patterns and make accurate predictions, even in the presence of imperfect data.
 
-A data-driven personal website
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+July 2024        I accepted the invitation to be a Program Committee Member for the 31st International Conference on Neural Information Processing ICONIP 2024
+July 2024        I am in the editorial board of Scientific Reports
+June 2024        I am in the editorial board of PLOS ONE
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Selected Publications on Learning with Noisy Labels
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* An Improved Noise Loss Correction Algorithm for Learning from Noisy Labels.
+  **Qian Zhang**, Feifei Lee, Yagang Wang, Ran Miao, Lei Chen, Qiu Chen.
+  In Journal of Visual Communication and Image Representation 2020. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1047320320301619)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* CJC-net: A cyclical training method with joint loss and co-teaching strategy net for deep learning under noisy labels.
+  **Qian Zhang**, Feifei Lee, Yagang Wang, Daming Ding, Shuai Yang, Chaowei Lin, Qiu Chen.
+  In Information Sciences 2021. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0020025521008008)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+* An joint end-to-end framework for learning with noisy labels.
+  **Qian Zhang**, Feifei Lee, Yagang Wang, Daming Ding, Wei Yao, Chen Lu, Qiu Chen.
+  In Applied Soft Computing 2021. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003495?via%3Dihub)
 
-**Markdown generator**
+* An Improved Sample Selection FrameWork for Learning with Noisy Labels.
+  **Qian Zhang**, Yi Zhu, Ming Yang, Ge Jin, Yingwen Zhu, Yanjun Lu, Yu Zou, Qiu Chen.
+  In Preprint 2023. [PDF](http://dx.doi.org/10.2139/ssrn.4639753)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* Cross-to-merge training with class balance strategy for learning with noisy labels.
+  **Qian Zhang**, Yi Zhu, Ming Yang, Ge Jin, Yingwen Zhu, Qiu Chen.
+  In Expert Systems with Applications 2024. [PDF](https://doi.org/10.1016/j.eswa.2024.123846)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* BPT-PLR: A Balanced Partitioning and Training Framework with Pseudo-Label Relaxed Contrastive Loss for Noisy Label Learning.
+  **Qian Zhang**, Ge Jin, Yi Zhu, Hongjian Wei, Qiu Chen.
+  In Entropy 2024. [PDF](https://doi.org/10.3390/e26070589)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* Psscl: A Progressive Sample Selection Framework with Contrastive Loss Designed for Noisy Labels.
+  **Qian Zhang**, Yi Zhu, Filipe Cordeiro, Qiu Chen.
+  In Preprint 2024. [PDF](http://dx.doi.org/10.2139/ssrn.4782767)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* A Two-Stage Noisy Label Learning Framework with Uniform Consistency Selection and Robust Training.
+  **Qian Zhang**, Qiu Chen.
+  In Preprint 2024. [PDF](http://dx.doi.org/10.2139/ssrn.4835466)
+
+Selected Publications on Image Segmentation
+======
+* Online Multiple Object Tracking Using Min-Cost Flow on Temporal Window for Autonomous Driving.
+  Hongjian Wei, Yingping Huang, **Qian Zhang**, Zhiyang Guo.
+  In World Electric Vehicle Journal 2023. [PDF](https://doi.org/10.3390/wevj14090243)
+
+
+Selected Publications on 5G NR
+======
+
+
+Selected Publications on Clustering Algorithm
+======
+
+Research Group
+======
+
