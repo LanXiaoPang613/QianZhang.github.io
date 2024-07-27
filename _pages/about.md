@@ -15,9 +15,9 @@ I am an Lecturer in the Department of Computer Engineering, School of Informatio
 
 News
 ======
-<br />July 2024        I accepted the invitation to be a Program Committee Member for ICONIP 2024<br />
-<br />July 2024        I am in the editorial board of Scientific Reports<br />
-<br />June 2024        I am in the editorial board of PLOS ONE<br />
+<br />**July 2024** &emsp        I accepted the invitation to be a Program Committee Member for ICONIP 2024<br />
+<br />**July 2024** &emsp        I am in the editorial board of Scientific Reports<br />
+<br />**June 2024** &emsp        I am in the editorial board of PLOS ONE<br />
 
 Selected Publications on Learning with Noisy Labels
 ======
