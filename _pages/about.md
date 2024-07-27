@@ -57,12 +57,14 @@ Selected Publications on Image Segmentation
 ======
 * Online Multiple Object Tracking Using Min-Cost Flow on Temporal Window for Autonomous Driving.<br />
   Hongjian Wei, Yingping Huang, **Qian Zhang**, Zhiyang Guo.<br />
-  In World Electric Vehicle Journal 2023. [PDF](https://doi.org/10.3390/wevj14090243)<br />
+  In World Electric Vehicle Journal 2023. [PDF](https://doi.org/10.3390/wevj14090243) <br />
 
 
 Selected Publications on 5G NR
 ======
-<br />
+* Double-RIS Assisted MIMO V2V Channels: Modeling, Simulation, and Correlation Statistics Analysis. <br />
+  Yuhan Wen, Beiping Zhou, **Qian Zhang**, Xuting Pan, Yue Zhang. <br />
+  In Physical Communication 2024. [PDF]()<br />
 
 Selected Publications on Clustering Algorithm
 ======
