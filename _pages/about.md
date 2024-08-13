@@ -45,6 +45,10 @@ Selected Publications on Learning with Noisy Labels
   **Qian Zhang**, Ge Jin, Yi Zhu, Hongjian Wei, Qiu Chen.<br />
   In Entropy 2024. [PDF](https://doi.org/10.3390/e26070589)<br />
 
+* A Noisy Sample Selection Framework Based on a Mixup Loss and Recalibration Strategy.<br />
+  **Qian Zhang**, De Yu, Xinru Zhou, Hanmeng Gong, Zheng Li, Yiming Liu, Ruirui Shao.<br />
+  In Mathematics 2024. [PDF](https://doi.org/10.3390/math12152389)<br />
+
 * Psscl: A Progressive Sample Selection Framework with Contrastive Loss Designed for Noisy Labels.<br />
   **Qian Zhang**, Yi Zhu, Filipe Cordeiro, Qiu Chen.<br />
   In Preprint 2024. [PDF](http://dx.doi.org/10.2139/ssrn.4782767)<br />
@@ -64,11 +68,13 @@ Selected Publications on 5G NR
 ======
 * Double-RIS Assisted MIMO V2V Channels: Modeling, Simulation, and Correlation Statistics Analysis. <br />
   Yuhan Wen, Beiping Zhou, **Qian Zhang**, Xuting Pan, Yue Zhang. <br />
-  In Physical Communication 2024. [PDF]()<br />
+  In Physical Communication 2024. [PDF](https://doi.org/10.1016/j.phycom.2024.102458)<br />
 
-Selected Publications on Clustering Algorithm
+Image Segmentation and Generation
 ======
-<br />
+* Transforming Traffic Accident Investigations: A Virtual-Real-Fusion Framework for Intelligent 3D Traffic Accident Reconstruction.
+  Yanzhan Chen, **Qian Zhang**, FanYu.
+  In Preprint 2024. [PDF]() <br />
 
 Research Group
 ======
