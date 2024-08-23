@@ -49,6 +49,10 @@ Selected Publications on Learning with Noisy Labels
   **Qian Zhang**, De Yu, Xinru Zhou, Hanmeng Gong, Zheng Li, Yiming Liu, Ruirui Shao.<br />
   In Mathematics 2024. [PDF](https://doi.org/10.3390/math12152389)<br />
 
+* An Improved Sample Selection Framework for Learning with Noisy Labels.<br />
+  **Qian Zhang**, Yi Zhu, Ming Yang, Ge Jin, Yingwen Zhu, Yanjun Lu, Yu Zou1, Qiu Chen.<br />
+  In PLOS ONE 2024. [PDF](https://doi.org/10.1371/journal.pone.0309841)<br />
+
 * Psscl: A Progressive Sample Selection Framework with Contrastive Loss Designed for Noisy Labels.<br />
   **Qian Zhang**, Yi Zhu, Filipe Cordeiro, Qiu Chen.<br />
   In Preprint 2024. [PDF](http://dx.doi.org/10.2139/ssrn.4782767)<br />
