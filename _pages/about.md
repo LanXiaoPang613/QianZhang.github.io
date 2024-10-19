@@ -15,9 +15,9 @@ I am an Lecturer in the Department of Computer Engineering, School of Informatio
 
 News
 ======
-<br />**July 2024** &emsp        I accepted the invitation to be a Program Committee Member for ICONIP 2024<br />
-<br />**July 2024** &emsp        I am in the editorial board of Scientific Reports<br />
-<br />**June 2024** &emsp        I am in the editorial board of PLOS ONE<br />
+<br />**July 2024**        I accepted the invitation to be a Program Committee Member for ICONIP 2024<br />
+<br />**July 2024**        I am in the editorial board of Scientific Reports<br />
+<br />**June 2024**        I am in the editorial board of PLOS ONE<br />
 
 Selected Publications on Learning with Noisy Labels
 ======
@@ -61,24 +61,25 @@ Selected Publications on Learning with Noisy Labels
   **Qian Zhang**, Qiu Chen.<br />
   In Preprint 2024. [PDF](http://dx.doi.org/10.2139/ssrn.4835466)<br />
 
-Selected Publications on Image Segmentation
+Selected Publications on Image Segmentation and Generation
 ======
+* Transforming Traffic Accident Investigations: A Virtual-Real-Fusion Framework for Intelligent 3D Traffic Accident Reconstruction.
+  Yanzhan Chen, **Qian Zhang**, FanYu.
+  In Preprint 2024. [PDF]() <br />
+
 * Online Multiple Object Tracking Using Min-Cost Flow on Temporal Window for Autonomous Driving.<br />
   Hongjian Wei, Yingping Huang, **Qian Zhang**, Zhiyang Guo.<br />
   In World Electric Vehicle Journal 2023. [PDF](https://doi.org/10.3390/wevj14090243) <br />
 
+* Mastering adverse weather: a two-stage approach for robust semantic segmentation in autonomous driving.<br />
+  Pengjie Liu, Yanzhan Chen, Fan Yu, **Qian Zhang**.<br />
+  In The Visual Computer 2024. [PDF](https://doi.org/10.1007/s00371-024-03663-1) <br />
 
 Selected Publications on 5G NR
 ======
 * Double-RIS Assisted MIMO V2V Channels: Modeling, Simulation, and Correlation Statistics Analysis. <br />
   Yuhan Wen, Beiping Zhou, **Qian Zhang**, Xuting Pan, Yue Zhang. <br />
   In Physical Communication 2024. [PDF](https://doi.org/10.1016/j.phycom.2024.102458)<br />
-
-Image Segmentation and Generation
-======
-* Transforming Traffic Accident Investigations: A Virtual-Real-Fusion Framework for Intelligent 3D Traffic Accident Reconstruction.
-  Yanzhan Chen, **Qian Zhang**, FanYu.
-  In Preprint 2024. [PDF]() <br />
 
 Research Group
 ======
