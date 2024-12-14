@@ -62,7 +62,7 @@ Selected Publications on Learning with Noisy Labels
 
 Selected Publications on Image Segmentation and Generation
 ======
-* Transforming Traffic Accident Investigations: A Virtual-Real-Fusion Framework for Intelligent 3D Traffic Accident Reconstruction.
+* Transforming Traffic Accident Investigations: A Virtual-Real-Fusion Framework for Intelligent 3D Traffic Accident Reconstruction.<br />
   Yanzhan Chen, **Qian Zhang***, FanYu.
   In complex & intelligent systems 2024. [PDF]() <br />
 
