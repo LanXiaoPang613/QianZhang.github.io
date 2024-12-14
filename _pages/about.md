@@ -15,6 +15,7 @@ I am an Lecturer in the Department of Computer Engineering, School of Informatio
 
 News
 ======
+<br />**Dec 2024**         I am in the young editorial board of Artificial Intelligence and Autonomous Systems<br />
 <br />**July 2024**        I accepted the invitation to be a Program Committee Member for ICONIP 2024<br />
 <br />**July 2024**        I am in the editorial board of Scientific Reports<br />
 <br />**June 2024**        I am in the editorial board of PLOS ONE<br />
@@ -55,7 +56,7 @@ Selected Publications on Learning with Noisy Labels
 
 * Psscl: A Progressive Sample Selection Framework with Contrastive Loss Designed for Noisy Labels.<br />
   **Qian Zhang**, Yi Zhu, Filipe Cordeiro, Qiu Chen.<br />
-  In Preprint 2024. [PDF](http://dx.doi.org/10.2139/ssrn.4782767)<br />
+  In Pattern Recognition 2024. [PDF](https://doi.org/10.1016/j.patcog.2024.111284)<br />
 
 * A Two-Stage Noisy Label Learning Framework with Uniform Consistency Selection and Robust Training.<br />
   **Qian Zhang**, Qiu Chen.<br />
@@ -64,8 +65,8 @@ Selected Publications on Learning with Noisy Labels
 Selected Publications on Image Segmentation and Generation
 ======
 * Transforming Traffic Accident Investigations: A Virtual-Real-Fusion Framework for Intelligent 3D Traffic Accident Reconstruction.
-  Yanzhan Chen, **Qian Zhang**, FanYu.
-  In Preprint 2024. [PDF]() <br />
+  Yanzhan Chen, **Qian Zhang***, FanYu.
+  In complex & intelligent systems 2024. [PDF]() <br />
 
 * Online Multiple Object Tracking Using Min-Cost Flow on Temporal Window for Autonomous Driving.<br />
   Hongjian Wei, Yingping Huang, **Qian Zhang**, Zhiyang Guo.<br />
