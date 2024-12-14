@@ -15,6 +15,7 @@ I am an Lecturer in the Department of Computer Engineering, School of Informatio
 
 News
 ======
+<br />**Dec 2024**         I am the Vice President of Science and Technology (科技副总) in Jiangsu [Link](https://smejs.cn/policy_show.aspx?id=03a8be7d45ef43f1ba9f614e9f7be972)<br />
 <br />**Dec 2024**         I am in the young editorial board of Artificial Intelligence and Autonomous Systems [Link](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/special_issues/automation-and-Intelligent-Decision-making-of-edge-ai)<br />
 <br />**Nov 2024**         I am in the editorial board of Chinese Journal of Computer Application [Link](http://jsjyywz.ijournals.cn/jsjyywz/site/menu/20230314112249001)<br />
 <br />**July 2024**        I accepted the invitation to be a Program Committee Member for ICONIP 2024 [Link](https://iconip2024.org/wp-content/uploads/2024/11/ICONIP-2024-Scientific-Committee.pdf)<br />
