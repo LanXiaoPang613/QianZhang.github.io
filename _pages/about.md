@@ -15,10 +15,11 @@ I am an Lecturer in the Department of Computer Engineering, School of Informatio
 
 News
 ======
-<br />**Dec 2024**         I am in the young editorial board of Artificial Intelligence and Autonomous Systems<br />
-<br />**July 2024**        I accepted the invitation to be a Program Committee Member for ICONIP 2024<br />
-<br />**July 2024**        I am in the editorial board of Scientific Reports<br />
-<br />**June 2024**        I am in the editorial board of PLOS ONE<br />
+<br />**Dec 2024**         I am in the young editorial board of Artificial Intelligence and Autonomous Systems [Link](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/special_issues/automation-and-Intelligent-Decision-making-of-edge-ai)<br />
+<br />**Nov 2024**         I am in the editorial board of Chinese Journal of Computer Application [Link](http://jsjyywz.ijournals.cn/jsjyywz/site/menu/20230314112249001)<br />
+<br />**July 2024**        I accepted the invitation to be a Program Committee Member for ICONIP 2024 [Link](https://iconip2024.org/wp-content/uploads/2024/11/ICONIP-2024-Scientific-Committee.pdf)<br />
+<br />**July 2024**        I am in the editorial board of Scientific Reports [Link](https://www.nature.com/srep/about/editors#computational-science)<br />
+<br />**June 2024**        I am in the editorial board of PLOS ONE [Link](https://journals.plos.org/plosone/static/editorial-board?ae_name=Qian+Zhang)<br />
 
 Selected Publications on Learning with Noisy Labels
 ======
@@ -34,12 +35,8 @@ Selected Publications on Learning with Noisy Labels
   **Qian Zhang**, Feifei Lee, Yagang Wang, Daming Ding, Wei Yao, Chen Lu, Qiu Chen.<br />
   In Applied Soft Computing 2021. [PDF](https://www.sciencedirect.com/science/article/abs/pii/S1568494621003495?via%3Dihub)<br />
 
-* An Improved Sample Selection FrameWork for Learning with Noisy Labels.<br />
-  **Qian Zhang**, Yi Zhu, Ming Yang, Ge Jin, Yingwen Zhu, Yanjun Lu, Yu Zou, Qiu Chen.<br />
-  In Preprint 2023. [PDF](http://dx.doi.org/10.2139/ssrn.4639753)<br />
-
 * Cross-to-merge training with class balance strategy for learning with noisy labels.<br />
-  **Qian Zhang**, Yi Zhu, Ming Yang, Ge Jin, Yingwen Zhu, Qiu Chen.<br />
+  **Qian Zhang***, Yi Zhu, Ming Yang, Ge Jin, Yingwen Zhu, Qiu Chen.<br />
   In Expert Systems with Applications 2024. [PDF](https://doi.org/10.1016/j.eswa.2024.123846)<br />
 
 * BPT-PLR: A Balanced Partitioning and Training Framework with Pseudo-Label Relaxed Contrastive Loss for Noisy Label Learning.<br />
@@ -55,7 +52,7 @@ Selected Publications on Learning with Noisy Labels
   In PLOS ONE 2024. [PDF](https://doi.org/10.1371/journal.pone.0309841)<br />
 
 * Psscl: A Progressive Sample Selection Framework with Contrastive Loss Designed for Noisy Labels.<br />
-  **Qian Zhang**, Yi Zhu, Filipe Cordeiro, Qiu Chen.<br />
+  **Qian Zhang**, Yi Zhu, Filipe R. Cordeiro, Qiu Chen.<br />
   In Pattern Recognition 2024. [PDF](https://doi.org/10.1016/j.patcog.2024.111284)<br />
 
 * A Two-Stage Noisy Label Learning Framework with Uniform Consistency Selection and Robust Training.<br />
