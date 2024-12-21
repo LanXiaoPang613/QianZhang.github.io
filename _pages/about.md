@@ -15,6 +15,8 @@ I am an Lecturer in the Department of Computer Engineering, School of Informatio
 
 News
 ======
+<br />**Dec 2024**         Congrats, one work is accepted by Pattern Recognition<br />
+<br />**Dec 2024**         I accepted the invitation to be a Reviewer for IJCNN 2025<br />
 <br />**Dec 2024**         I am the Vice President of Science and Technology (科技副总) in Jiangsu [Link](https://smejs.cn/policy_show.aspx?id=03a8be7d45ef43f1ba9f614e9f7be972)<br />
 <br />**Dec 2024**         I am in the young editorial board of Artificial Intelligence and Autonomous Systems [Link](https://elspub.com/journals/artificial-intelligence-and-autonomous-systems/special_issues/automation-and-Intelligent-Decision-making-of-edge-ai)<br />
 <br />**Nov 2024**         I am in the editorial board of Chinese Journal of Computer Application [Link](http://jsjyywz.ijournals.cn/jsjyywz/site/menu/20230314112249001)<br />
@@ -64,7 +66,7 @@ Selected Publications on Image Segmentation and Generation
 ======
 * Transforming Traffic Accident Investigations: A Virtual-Real-Fusion Framework for Intelligent 3D Traffic Accident Reconstruction.<br />
   Yanzhan Chen, **Qian Zhang***, FanYu.
-  In complex & intelligent systems 2024. [PDF]() <br />
+  In complex & intelligent systems 2024. [PDF](https://doi.org/10.1007/s40747-024-01693-9) <br />
 
 * Online Multiple Object Tracking Using Min-Cost Flow on Temporal Window for Autonomous Driving.<br />
   Hongjian Wei, Yingping Huang, **Qian Zhang**, Zhiyang Guo.<br />
