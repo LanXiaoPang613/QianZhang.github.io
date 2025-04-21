@@ -15,8 +15,10 @@ I am an Lecturer in the Department of Computer Engineering, School of Informatio
 
 News
 ======
-<br />**Jan 2025**          Congrats, we have been approved for an open research project<br />
-<br />**Jan 2025**          Congrats, one work has entered the ESI<br />
+<br />**Apr 2025**         I am in the youth editorial board of Interdisciplinary Sciences: Computational Life Sciences (INSC) <br />
+<br />**Mar 2025**         I am in the editorial board of China Journal of Science and Technology, CJST<br />
+<br />**Jan 2025**         Congrats, we have been approved for an open research project<br />
+<br />**Jan 2025**         Congrats, one work has entered the ESI<br />
 <br />**Dec 2024**         I accepted the invitation to join the Program Committee Member of the survey and Main Track for IJCAI 2025<br />
 <br />**Dec 2024**         Congrats, one work is accepted by Pattern Recognition<br />
 <br />**Dec 2024**         I accepted the invitation to be a Program Committee Member for IJCNN 2025<br />
