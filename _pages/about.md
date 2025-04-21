@@ -15,7 +15,7 @@ I am an Lecturer in the Department of Computer Engineering, School of Informatio
 
 News
 ======
-<br />**Apr 2025**         I am in the youth editorial board of Interdisciplinary Sciences: Computational Life Sciences (INSC) <br />
+<br />**Apr 2025**         I am in the younth editorial board of Interdisciplinary Sciences: Computational Life Sciences (INSC) <br />
 <br />**Mar 2025**         I am in the editorial board of China Journal of Science and Technology, CJST<br />
 <br />**Jan 2025**         Congrats, we have been approved for an open research project<br />
 <br />**Jan 2025**         Congrats, one work has entered the ESI<br />
