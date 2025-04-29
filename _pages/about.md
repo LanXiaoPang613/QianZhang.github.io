@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Lecturer in the Department of Computer Engineering, School of Information Technology, [Jiangsu Open University] (https://sit.jsou.edu.cn/2023/0904/c6266a159158/page.psp). I obtained my Ph.D. degree at the School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology in 2021, supervised by Prof. Qiu Chen, Prof. Feifei Lee and Prof. Yagang Wang. Prior to that, I received my B.E. in Automation from Changzhou Institute of Technology In in 2016.
+I am an Lecturer in the Department of Computer Engineering, School of Information Technology, [Jiangsu Open University](https://sit.jsou.edu.cn/2023/0904/c6266a159158/page.psp). I obtained my Ph.D. degree at the School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology in 2021, supervised by Prof. Qiu Chen, Prof. Feifei Lee and Prof. Yagang Wang. Prior to that, I received my B.E. in Automation from Changzhou Institute of Technology In in 2016.
 
 <br />My research interest falls in the scope of Noisy Label Learning, Computer Vision and Pattern Recongition, which enhance deep neural networks robustness against data corruption [ORCID](https://orcid.org/0000-0003-1749-8653). My future research interests include learning with noisy labels in medical imaging, learning with biased labels, and out-of-distribution (OOD) detection.
 
@@ -15,7 +15,7 @@ I am an Lecturer in the Department of Computer Engineering, School of Informatio
 
 News
 ======
-<br />**Apr 2025**         I am in the younth editorial board of Interdisciplinary Sciences: Computational Life Sciences (INSC) <br />
+<br />**Apr 2025**         I am in the youth editorial board of Interdisciplinary Sciences: Computational Life Sciences (INSC) <br />
 <br />**Mar 2025**         I am in the editorial board of China Journal of Science and Technology, CJST<br />
 <br />**Jan 2025**         Congrats, we have been approved for an open research project<br />
 <br />**Jan 2025**         Congrats, one work has entered the ESI<br />
